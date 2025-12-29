@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Scalable Full-Stack Web Apps & AI-powered Agentic systems.<br><br>👯 I’m looking to collaborate on: Open-source AI projects and Next.js/SvelteKit enterprise solutions.<br><br>🌱 I’m currently learning: Advanced Agentic AI SDKs and multi-agent orchestration.<br><br>💬 Ask me about: MERN Stack, Next.js, Spec-Driven Development, and Python AI Agents.<br><br>⚡ Fun fact: I build high-performance projects using Claude Code & Spec-Driven Development for 10x speed.
+🔭 I’m currently working on: Scalable Full-Stack Web Apps & AI-powered Agentic systems.<br><br>👯 I’m looking to collaborate on: Open-source AI projects and Next.js/React enterprise solutions.<br><br>🌱 I’m currently learning: Advanced Agentic AI SDKs and multi-agent orchestration.<br><br>💬 Ask me about: MERN Stack, Next.js, Spec-Driven Development, and Python AI Agents.<br><br>⚡ Fun fact: I build high-performance projects using Claude Code & Spec-Driven Development for 10x speed.
 
 
 ## 🌐 Socials:
